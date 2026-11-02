@@ -723,7 +723,7 @@ I decided that the chart would be even clearer if, instead of the value 140 000,
 
 <p align="center">
   <img src="images/screenshot_37.png" width="330" alt="Screenshot 37"><br>
-  <em><b>Screenshot 37.</b> Values shown in thousands, without changing the source data</em>
+  <em><b>Screenshot 37.</b> Axis options: display units set to “Thousands” (“Tysiące”), without changing the source data.</em>
 </p>
 
 <p align="center">
