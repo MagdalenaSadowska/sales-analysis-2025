@@ -2,7 +2,7 @@
 
 # Sales Analysis 2025
 
-**MONTHLY CHALLENGE (WYZWANIE MIESIĄCA)**
+**MONTHLY CHALLENGE (WYZWANIE MIESIĄCA)** 
 
 From a CSV file to a dashboard: data quality control in SQL Server and sales analysis in Excel
 
